@@ -2,7 +2,7 @@
   <span style="color: blue;">About Me</span>
 </h1>
 <div align="center">
-  <img src="assets/my%20image%20in%20university.jpeg" alt="My Image" width="400" />
+  <img src="assets/Code%20With%20Uditya.png" alt="My Image" width="400" />
 </div>
 
 </br>
