@@ -5,12 +5,23 @@
 ## <span style="color: red;">Introduction</span>
 
 <div align="center">
-    [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Aman_Pal_1)
-    [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udityapal)
-    [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:udityapal2024@gmail.com)
 
-    [![](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow?style=flat)](https://conventionalcommits.org)
-    [![](https://img.shields.io/badge/license-MIT-blue?style=flat)](https://opensource.org/licenses/MIT)
+  <a href="https://x.com/Aman_Pal_1">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/udityapal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:udityapal2024@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <br />
+  <a href="https://conventionalcommits.org">
+    <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow?style=flat" alt="Conventional Commits" />
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/license-MIT-blue?style=flat" alt="License" />
+  </a>
 
 </div>
 
