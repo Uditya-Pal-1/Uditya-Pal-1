@@ -1,10 +1,10 @@
 # <span style="color: blue;">About Me</span>
-
 ![My Image in University](assets/my%20image%20in%20university.jpeg)
 
 ## <span style="color: red;">Introduction</span>
 
-<div align="center">
+<div align="center" dir="auto">
+
     [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Aman_Pal_1)
     [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udityapal)
     [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:udityapal2024@gmail.com)
