@@ -5,6 +5,8 @@
   <img src="assets/my%20image%20in%20university.jpeg" alt="My Image" width="400" />
 </div>
 
+</br>
+
 <div align="center" dir="auto">
 
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Aman_Pal_1)
