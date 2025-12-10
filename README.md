@@ -1,5 +1,7 @@
 # <span style="color: blue;">About Me</span>
-![My Image in University](assets/my%20image%20in%20university.jpeg)
+<div align="center">
+  <img src="assets/my%20image%20in%20university.jpeg" alt="My Image" width="400" />
+</div>
 
 ## <span style="color: red;">Introduction</span>
 
