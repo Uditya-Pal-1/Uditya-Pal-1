@@ -22,18 +22,26 @@
 
 ### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi">&nbsp; Hi there
 
-- Computer Science Student
-  
-- Full-Stack Web Developer
+# Hi, I'm Uditya Pal 👋
 
-- UI/UX Designer & Developer
+I'm a full-stack web developer focused on building modern web apps with:
+HTML, CSS, JavaScript, React, Node.js, Express, MongoDB
 
-- Bridging the gap between beautiful design and **flawless performance** in code. 🎨
+## What I do
+- Build responsive frontend interfaces
+- Develop backend APIs
+- Work on full-stack projects
+- Learn by building real projects
 
-- Currently learning <a href="https://nextjs.org/" target="_blank">Next.Js</a>
+## Current focus
+- Improving React and Node.js skills
+- Building portfolio-ready projects
+- Learning better system design and deployment workflows
 
-- Happy to connect Amazing folks and build Awesome network.
-
+## Connect with me
+- GitHub: https://github.com/Uditya-Pal-1
+- LinkedIn: https://linkedin.com/in/udityapal
+- Portfolio: https://my-portfolio-uditya-pal.vercel.app 
 <br/>
 
 <!-- Technologies that I'm working with -->
