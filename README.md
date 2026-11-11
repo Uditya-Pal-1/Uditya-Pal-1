@@ -41,7 +41,7 @@ HTML, CSS, JavaScript, React, Node.js, Express, MongoDB
 ## Connect with me
 - GitHub: https://github.com/Uditya-Pal-1
 - LinkedIn: https://linkedin.com/in/udityapal
-- Portfolio: https://my-portfolio-uditya-pal.vercel.app 
+- Portfolio: https://portfolio-website-nine-murex-90.vercel.app/
 <br/>
 
 <!-- Technologies that I'm working with -->
